@@ -1,0 +1,73 @@
+
+/*===============Propiedades Globales================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+	
+    font-family: 'Montserrat', sans-serif;
+	color: #0e0f10;
+	background-color: #ffffff;
+}
+
+a {
+	color: #0e0f10;
+	-webkit-transition: all .3s ease-in-out;
+	-moz-transition: all .3s ease-in-out;
+	-o-transition: all .3s ease-in-out;
+	transition: all .3s ease-in-out;
+}
+
+
+h1,h2,h3,h4,h5,h6 {
+	margin: 0;
+	padding: 0; 
+	color: #0e0f10;
+	font-weight: 600;
+}
+
+
+/*===================MENÚ==========================*/
+
+ #menu a, button{
+     font-size: 18px !important;
+     font-weight: 600;
+    
+ }
+
+ #menu a{
+     color:#3f3f3f;
+     
+ }
+
+ /*=========================FOOTER================================*/
+footer {
+    background: #1b2a4e;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
+
+
+.text-start{
+    padding: 0% 2% 0% 2%;
+
+}
+
+.container-fluid h2{
+    padding: 0% 1% 0% 1%;
+}
+
+.texto-justificado{
+    text-align: justify;
+    }
+
+
+

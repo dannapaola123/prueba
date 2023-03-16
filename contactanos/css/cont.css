@@ -1,0 +1,78 @@
+/*===============Propiedades Globales================*/
+
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+
+body {
+    font-family: 'Montserrat', sans-serif;
+    overflow-x: hidden;
+}
+
+
+/*===================MENÚ==========================*/
+
+ #menu a, button{
+     font-size: 18px !important;
+     font-weight: 600;
+    
+ }
+
+ #menu a{
+     color:#3f3f3f;
+     
+ }
+
+
+
+
+ /*=========================FOOTER================================*/
+footer {
+    background: #1b2a4e;
+    min-height: 100px;;
+}
+footer p{
+    color:#f3f3f3;
+    text-align:center;
+}
+#iconos  i {
+    font-size: 26px;
+    padding: 0 8px;
+    color:#f3f3f3;
+}
+
+
+.text-start{
+    padding: 0% 2% 0% 2%;
+
+}
+.codigosjava{
+display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 15px;
+    line-height: 2;
+    word-break: break-all;
+    word-wrap: break-word;
+    color: #333333;
+    background-color: #f5f5f5;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    
+    
+}
+.container-fluid h2{
+    padding: 0% 1% 0% 1%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
